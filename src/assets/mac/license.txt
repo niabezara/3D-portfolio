@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mac
+* source:	https://sketchfab.com/3d-models/mac-dc8559a807a14f0a92cbbdcf46f2e303
+* author:	Tinapay.Monay.Pandesal (https://sketchfab.com/Tinapay.Monay.Pandesal)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mac" (https://sketchfab.com/3d-models/mac-dc8559a807a14f0a92cbbdcf46f2e303) by Tinapay.Monay.Pandesal (https://sketchfab.com/Tinapay.Monay.Pandesal) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
