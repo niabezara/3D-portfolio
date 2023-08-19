@@ -1,12 +1,11 @@
 import { OrbitControls, Stage } from "@react-three/drei";
 import { Canvas } from "@react-three/fiber";
-import Retro_computer from "./Retro_computer";
-
+import Mini_macbook_pro from "./Mini_macbook_pro";
 export default function WebDesign() {
   return (
     <Canvas>
       <Stage environment="city" intensity={0.2}>
-        <Retro_computer />
+        <Mini_macbook_pro />
       </Stage>
       <OrbitControls enableZoom={false} />
     </Canvas>
