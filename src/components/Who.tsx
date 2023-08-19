@@ -17,7 +17,7 @@ export default function Who() {
         <Right>
           <Title>Think outside the square space</Title>
           <WhatWeDo>
-            <Line src="./public/line.png" />
+            <Line src="/line.png" />
             <Subtitle>Who we Are</Subtitle>
           </WhatWeDo>
           <Desc>we enjoy creating delightful, human-centered experiences</Desc>

@@ -25,7 +25,7 @@ const Container = styled.div`
   scroll-behavior: smooth;
   overflow-y: auto;
   color: white;
-  background: url("/public/bg.jpeg");
+  background: url("/bg.jpeg");
   scrollbar-width: none;
   &::-webkit-scrollbar {
     display: none;

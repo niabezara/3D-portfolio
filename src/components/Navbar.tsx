@@ -5,7 +5,7 @@ export default function Navbar() {
     <Section>
       <Container>
         <Links>
-          <Logo src="./public/logo.png" />
+          <Logo src="/logo.png" />
           <List>
             <ListItem>Home</ListItem>
             <ListItem>Studio</ListItem>
@@ -14,7 +14,7 @@ export default function Navbar() {
           </List>
         </Links>
         <Icons>
-          <Icon src="./public/search.png" />
+          <Icon src="/search.png" />
           <Button>Hire Now</Button>
         </Icons>
       </Container>

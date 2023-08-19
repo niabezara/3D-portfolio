@@ -11,7 +11,7 @@ export default function Hero() {
         <Left>
           <Title>Think.Make.Solve.</Title>
           <WhatWeDo>
-            <Line src="./public/line.png" />
+            <Line src="/line.png" />
             <Subtitle>What we Do</Subtitle>
           </WhatWeDo>
           <Desc>
@@ -35,7 +35,7 @@ export default function Hero() {
               </Sphere>
             </Suspense>
           </Canvas>
-          <Img src="./public/moon.png" />
+          <Img src="/moon.png" />
         </Right>
       </Container>
     </Section>
