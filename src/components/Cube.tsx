@@ -1,9 +1,9 @@
-import React, { useRef } from "react";
+import { useRef } from "react";
 import { PerspectiveCamera, RenderTexture, Text } from "@react-three/drei";
 import { useFrame } from "@react-three/fiber";
 
 export default function Cube() {
-  const textRef = useRef();
+  const textRef = useRef<any>();
   useFrame(
     (state) =>
       textRef.current &&
@@ -13,7 +13,7 @@ export default function Cube() {
     <mesh>
       <boxGeometry />
       <meshStandardMaterial>
-        <RenderTexture attach="map">
+        <RenderTexture sourceFile="" attach="map">
           <PerspectiveCamera makeDefault position={[0, 0, 5]} />
           <color attach="background" args={["#a80e84"]} />
           <Text ref={textRef} fontSize={3} color="#d999e6">
